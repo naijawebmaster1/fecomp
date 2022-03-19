@@ -1,0 +1,107 @@
+[03-Feb-2021 16:42:09 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 203
+[03-Feb-2021 16:42:09 UTC] PHP Notice:  Undefined index: tnxId in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 242
+[04-Feb-2021 17:13:02 UTC] PHP Notice:  Undefined variable: 2 in /home/bluecro2/public_html/admin/dashboard/light/index.php on line 160
+[05-Feb-2021 11:30:30 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 203
+[05-Feb-2021 11:30:30 UTC] PHP Notice:  Undefined index: tnxId in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 242
+[05-Feb-2021 11:42:13 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 203
+[05-Feb-2021 11:42:13 UTC] PHP Notice:  Undefined index: tnxId in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 242
+[06-Feb-2021 15:08:15 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 203
+[06-Feb-2021 15:08:15 UTC] PHP Notice:  Undefined index: tnxId in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 242
+[17-Feb-2021 06:53:50 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 203
+[17-Feb-2021 06:53:50 UTC] PHP Notice:  Undefined index: tnxId in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 242
+[17-Feb-2021 06:57:10 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 203
+[17-Feb-2021 06:57:10 UTC] PHP Notice:  Undefined index: tnxId in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 242
+[21-Feb-2021 20:58:44 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 203
+[21-Feb-2021 20:58:44 UTC] PHP Notice:  Undefined index: tnxId in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 242
+[21-Feb-2021 21:00:04 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 203
+[21-Feb-2021 21:00:04 UTC] PHP Notice:  Undefined index: tnxId in /home/bluecro2/public_html/admin/dashboard/light/viewMessage.php on line 242
+[12-Mar-2021 07:43:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[12-Mar-2021 07:43:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[12-Mar-2021 07:43:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[12-Mar-2021 07:44:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[12-Mar-2021 07:44:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[12-Mar-2021 07:44:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[12-Mar-2021 07:45:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[12-Mar-2021 08:02:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[12-Mar-2021 08:05:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[12-Mar-2021 08:05:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[14-Mar-2021 20:56:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[14-Mar-2021 20:56:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[14-Mar-2021 20:56:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[14-Mar-2021 20:56:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[14-Mar-2021 20:57:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[14-Mar-2021 20:57:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[14-Mar-2021 21:00:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47
+[15-Mar-2021 05:50:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php:47
+Stack trace:
+#0 /home/talcube/fecomp.org/user/admin/dashboard/light/index.php(9): getBooking()
+#1 {main}
+  thrown in /home/talcube/fecomp.org/user/admin/dashboard/light/includes/post_functions.php on line 47

@@ -1,0 +1,452 @@
+
+    .left-animation {
+
+      -webkit-animation: slide 20s linear infinite;
+  }
+
+  .hero-bkg-animated h1 {
+      font-family: sans-serif;
+  }
+
+  @-webkit-keyframes slide {
+      from {
+          background-position: 0 0;
+      }
+
+      to {
+          background-position: -400px 0;
+      }
+  }
+
+
+
+
+* {
+          box-sizing: border-box;
+      }
+
+      body {
+          margin: 0px;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifl;
+          font-size: 1rem;
+          line-height: 1.5;
+          color: #333;
+          overflow-x: hidden
+      }
+
+    .container-1 {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+      }
+
+
+* {
+          box-sizing: border-box;
+      }
+
+      body {
+          margin: 0px;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifl;
+          font-size: 1rem;
+          line-height: 1.5;
+          color: #333;
+          overflow-x: hidden
+      }
+
+
+
+html, body {
+margin: 0; padding: 0;
+}
+
+.topnav ul{
+float:right;
+display:inline;
+margin:0px
+}
+.topnav li{
+display:inline;
+text-decoration: none ;
+float:left;
+margin:0px;
+font-size:20px
+}
+
+.topnav span{
+
+float:left;
+}
+
+      .topnav {
+          overflow: hidden;
+          background-color:#243238;
+          position: fixed;
+          width:100%;
+          z-index: 10;
+          box-shadow: 0 4px 18px 0 rgba(0,0,0,.12), 0 7px 10px -5px rgba(0,0,0,.15);
+      }
+
+      .topnav .text_topnav{
+          font-size:25px;
+          font-weight: 600;
+          padding:0px;
+          margin:0px;
+      }
+
+      .topnav #myLinks {
+          display: none;
+      }
+
+      .topnav a {
+          color: white;
+          padding: 14px 16px;
+          text-decoration: none;
+
+          display: block;
+      }
+
+      .topnav a.icon {
+          display: block;
+          position: absolute;
+          right: 0;
+          top: 0;
+      }
+
+
+
+
+
+.bar1, .bar2, .bar3 {
+width: 28px;
+height: 4px;
+background-color: #fff;
+margin: 6px 0;
+transition: 0.3s;
+}
+
+.change .bar1 {
+-webkit-transform: rotate(-45deg) translate(-6px, 7px);
+transform: rotate(-45deg) translate(-6px, 7px);
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+-webkit-transform: rotate(45deg) translate(-8px, -8px);
+transform: rotate(45deg) translate(-8px, -8px);
+}
+
+
+.btn {
+          background: #fff;
+          color: #243238;
+          padding: 15px;
+          text-decoration: none;
+          border: 1px solid #fff;
+          border-radius: 3px;
+box-shadow: 0 4px 18px 0 rgba(0,0,0,.12), 0 7px 10px -5px rgba(0,0,0,.15);            }
+
+          .grid{
+                           background-color: #243238;color:#fff;
+
+          }
+
+
+  .header-content {
+          z-index: 2;
+      }
+
+
+      .header-content h1 {
+          font-size: 35px;
+          margin-bottom: 0px;
+      }
+
+
+      .header-content p {
+          display: block;
+          padding-bottom: 2rem;
+
+      }
+
+.wallpaper .col-md-4{
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius:3px;
+  margin: 10px 0px
+}
+
+
+.center-col{
+
+
+
+  width: 60%;
+    margin: auto;
+    overflow: hidden;
+
+}
+.center-row{
+width:100%;
+height: 10vh;
+  background: #fff url(https://subtlepatterns.com/patterns/geometry2.png) repeat 0 0;
+  padding:0px 10px;
+  border-radius: 3px;
+  box-shadow: 0 4px 18px 0 rgba(0,0,0,.12), 0 7px 10px -5px rgba(0,0,0,.15);
+  width: 100%;
+
+
+}
+
+
+.center-row img{
+width:20%;
+display:block;
+float:right
+
+
+}
+
+
+.center-row h3{
+padding-top:12px
+}
+
+.showcase2 .col-md-4{
+ color:#333;
+  border: 1px solid #fff;
+  border-radius:3px;
+  margin: 10px 0px;
+   background: #fff url(https://subtlepatterns.com/patterns/geometry2.png) repeat 0 0;
+}
+.wallpaper .col-md-4{
+
+   background: #fff url(https://subtlepatterns.com/patterns/geometry2.png) repeat 0 0;
+}
+
+.main{
+background: #fff url(https://subtlepatterns.com/patterns/geometry2.png) repeat 0 0;
+
+}
+
+.censor-img{
+width:20%
+}
+
+
+.dont-display-on-mobile{
+display: block
+}
+.dont-display-on-desktop{
+display: none
+}
+
+
+
+.wallpaper{
+  background-image: url(images/cogs4.jpg);
+  background-attachment: fixed;
+/*clip-path:polygon(0% 3%, 100% 0%, 100% 97%, 0% 100%); */
+padding: 10px;
+}
+
+
+.showcase{
+
+  background-attachment: fixed;
+
+padding: 10px;
+
+background-repeat: no-repeat;
+
+  min-height: auto;
+  width: auto;
+
+  text-align: center;
+  color: #ffffff;
+  background-size: cover;
+  background-attachment: local;
+  margin-bottom: 0%;
+  padding-top: 25vh;
+}
+
+.showcase1{
+background-image: url(images/banner_2.jpg) ;
+
+  height:100vh;
+  background-repeat: repeat-x
+/* background-attachment:fixed; */
+}
+
+.showcase2{
+background-color:#35424a;
+    background-repeat: repeat-x;
+color:#fff
+}
+
+
+
+
+
+.showcase3{
+background-image: url(images/lace.jpg) ;
+  height:100vh;
+  background-repeat: repeat-x
+
+/* background-attachment:fixed; */
+}
+
+
+
+
+.abc .grid-3{
+
+color:#fff;
+border-radius:5px;
+  text-align: left
+}
+
+
+.abc .grid-1{
+color:#333;
+background: #fff url(https://subtlepatterns.com/patterns/geometry2.png) repeat 0 0;
+border-radius:5px;
+text-align: left
+
+}
+
+.abc li{
+text-decorator:none;
+list-style: none
+}
+
+.abc a{
+color:#fff
+}
+
+
+
+
+
+
+
+
+    @media(max-width:768px){
+      /*body{display: none;}*/
+
+
+
+
+.abc .grid-3{
+
+color:#fff;
+border-radius:5px;
+  text-align: left;
+  height:30vh
+}
+
+
+.abc .grid-1{
+color:#333;
+background: #fff url(https://subtlepatterns.com/patterns/geometry2.png) repeat 0 0;
+border-radius:5px;
+text-align: left;
+height:40vh
+
+}
+
+
+.dont-display-on-mobile{
+display: none
+}
+.dont-display-on-desktop{
+display: block
+}
+
+
+.censor-img{
+width:70%
+}
+
+.center-row img{
+width:24%;
+display:block;
+float:right
+
+
+}
+
+.center-row h3{
+padding-top:18px
+}
+
+  .left-animation {
+
+      -webkit-animation: slide 0s linear infinite;
+  }
+
+  .hero-bkg-animated h1 {
+      font-family: sans-serif;
+  }
+
+  @-webkit-keyframes slide {
+      from {
+          background-position: 0 0;
+      }
+
+      to {
+          background-position: -400px 0;
+      }
+  }
+
+
+
+  .animation {
+
+      -webkit-animation: slide 80s linear infinite;
+  }
+
+
+
+  @-webkit-keyframes slide {
+      from {
+          background-position: 0 0;
+      }
+
+      to {
+          background-position: -400px 0;
+      }
+  }
+
+    .container-1 {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+      }
+
+      .grid{
+           background-color: #243238;color:#fff; clip-path:polygon(0% 3%, 100% 0%, 100% 97%, 0% 100%)
+      }
+
+
+
+.wallpaper .col-md-4{
+background-color:#f4f4f4;    border: 1px solid #fff;
+  border-radius:3px;
+  margin: 10px 0px
+}
+
+
+
+.showcase2{
+background-color:#35424a;
+    background-repeat: repeat-x;
+color:#fff;
+text-align: center;
+}
+
+
+
+
+   }

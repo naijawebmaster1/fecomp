@@ -1,0 +1,83 @@
+[12-Mar-2021 07:43:01 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[12-Mar-2021 07:43:01 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[12-Mar-2021 07:43:01 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[12-Mar-2021 07:43:01 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[12-Mar-2021 07:45:56 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/talcube/fecomp.org/user/admin/logout.php on line 12
+[12-Mar-2021 07:46:20 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[12-Mar-2021 07:46:20 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[12-Mar-2021 07:46:20 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[12-Mar-2021 07:46:20 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[12-Mar-2021 07:56:24 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/talcube/fecomp.org/user/admin/logout.php on line 12
+[12-Mar-2021 07:56:57 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[12-Mar-2021 07:56:57 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[12-Mar-2021 07:56:57 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[12-Mar-2021 07:56:57 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[12-Mar-2021 07:57:19 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/talcube/fecomp.org/user/admin/logout.php on line 12
+[12-Mar-2021 07:57:51 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[12-Mar-2021 07:57:51 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[12-Mar-2021 07:57:51 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[12-Mar-2021 07:57:51 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[12-Mar-2021 07:58:29 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/talcube/fecomp.org/user/admin/logout.php on line 12
+[12-Mar-2021 07:58:43 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[12-Mar-2021 07:58:43 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[12-Mar-2021 07:58:43 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[12-Mar-2021 07:58:43 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[12-Mar-2021 07:59:44 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/talcube/fecomp.org/user/admin/logout.php on line 12
+[12-Mar-2021 08:02:03 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[12-Mar-2021 08:02:03 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[12-Mar-2021 08:02:03 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[12-Mar-2021 08:02:03 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[12-Mar-2021 08:11:50 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/talcube/fecomp.org/user/admin/logout.php on line 12
+[12-Mar-2021 09:34:56 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[12-Mar-2021 09:34:56 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[12-Mar-2021 09:34:56 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[12-Mar-2021 09:34:56 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[12-Mar-2021 09:41:54 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/talcube/fecomp.org/user/admin/logout.php on line 12
+[13-Mar-2021 09:55:02 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[13-Mar-2021 09:55:02 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[13-Mar-2021 09:55:02 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[13-Mar-2021 09:55:02 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[14-Mar-2021 07:39:14 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[14-Mar-2021 07:39:14 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[14-Mar-2021 07:39:14 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[14-Mar-2021 07:39:14 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[14-Mar-2021 20:53:23 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[14-Mar-2021 20:53:23 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[14-Mar-2021 20:53:23 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[14-Mar-2021 20:53:23 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[14-Mar-2021 20:57:49 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/talcube/fecomp.org/user/admin/logout.php on line 12
+[14-Mar-2021 20:59:21 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[14-Mar-2021 20:59:21 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[14-Mar-2021 20:59:21 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[14-Mar-2021 20:59:21 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[15-Mar-2021 05:21:02 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[15-Mar-2021 05:21:02 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[15-Mar-2021 05:21:02 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[15-Mar-2021 05:21:02 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[15-Mar-2021 05:52:48 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/talcube/fecomp.org/user/admin/logout.php on line 12
+[15-Mar-2021 05:53:00 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[15-Mar-2021 05:53:00 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[15-Mar-2021 05:53:00 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[15-Mar-2021 05:53:00 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[15-Mar-2021 06:24:05 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[15-Mar-2021 06:24:05 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[15-Mar-2021 06:24:05 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[15-Mar-2021 06:24:05 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[15-Mar-2021 08:05:51 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[15-Mar-2021 08:05:51 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[15-Mar-2021 08:05:51 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[15-Mar-2021 08:05:51 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[16-Mar-2021 05:39:59 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[16-Mar-2021 05:39:59 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[16-Mar-2021 05:39:59 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[16-Mar-2021 05:39:59 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[02-Jun-2021 07:38:04 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[02-Jun-2021 07:38:04 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[02-Jun-2021 07:38:04 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[02-Jun-2021 07:38:04 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[02-Jun-2021 09:23:49 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 104
+[02-Jun-2021 09:23:49 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 110
+[02-Jun-2021 09:23:49 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 111
+[02-Jun-2021 09:23:49 America/New_York] PHP Notice:  Undefined variable: user in /home/talcube/fecomp.org/user/admin/authController.php on line 112
+[05-Oct-2021 18:37:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/fecompor/public_html/user/config.php on line 18
+[05-Oct-2021 18:47:20 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fecompor/public_html/user/admin/logout.php on line 12
